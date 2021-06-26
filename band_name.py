@@ -7,7 +7,7 @@ print("Welcome to the Band Name Generator")
 #Ask the user for the city that they grew up in.
 city = input("What's name of the city you grew up in?\n")
 
-#Ask the user for the name of their favorite food.
+#Ask the user for the name of their favorite food or something random.
 food_name = input("What's your favorite food or drink?\n")
 
 #Ask the user for an obscure occupation
